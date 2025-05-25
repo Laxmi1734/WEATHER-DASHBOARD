@@ -2,13 +2,14 @@
 
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: VISHAL KUMAR KESHRI
+NAME: LAXMI KUAMRI
 
-INTERN ID: CT04DN1190
+INTERN ID:  CT06DN1214
+
 
 DOMAIN: REACT.JS WEB DEVELOPMENT
 
-DURATION: 4 WEEK
+DURATION: 6 WEEK
 
 MENTOR: NEELA SANTOSH
 
@@ -35,3 +36,5 @@ In the top right corner of the browser, network activity stats are visible, show
 Overall, this React weather app demonstrates key frontend development practices: clean UI/UX design, modular architecture (implied by Vite and React), and live data fetching. It's likely using a weather API like OpenWeatherMap or WeatherAPI to source real-time weather conditions based on city input. The project is a strong foundation for additional features like geolocation-based weather, multi-day forecasts, or themed UI based on weather types.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1dc3b0c1-66fa-4844-aba9-1db472a0a22c)
